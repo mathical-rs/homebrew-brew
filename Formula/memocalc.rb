@@ -1,4 +1,4 @@
-class MemoCalc < Formula
+class Memocalc < Formula
     desc "A useful tool for practicing mental mathematics."
     homepage "https://github.com/memomath/memocalc"
     url "https://github.com/memomath/memocalc/releases/download/latest/memocalc-1.0.0-x86_64-apple-darwin.tar.gz"
